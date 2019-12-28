@@ -25,6 +25,8 @@ return (
   </form>
 </div>
 );
+
+
 }
 }
 export default connect()(EditComponent);
